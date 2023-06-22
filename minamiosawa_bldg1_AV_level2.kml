@@ -193,23 +193,6 @@
 			<coordinates>139.3784584141832,35.61684588400751,136.2859578349233</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="00FE09F595287F898031">
-		<name>207教室</name>
-		<LookAt>
-			<longitude>139.3785577804658</longitude>
-			<latitude>35.61687224894019</latitude>
-			<altitude>135.9349859625826</altitude>
-			<heading>0</heading>
-			<tilt>0</tilt>
-			<gx:fovy>30.00000235712304</gx:fovy>
-			<range>191.3226344799295</range>
-			<altitudeMode>absolute</altitudeMode>
-		</LookAt>
-		<styleUrl>#__managed_style_065C8AB91D287F881A20</styleUrl>
-		<Point>
-			<coordinates>139.3783798018665,35.61680887945404,136.3424876448322</coordinates>
-		</Point>
-	</Placemark>
 	<Placemark id="0C38336DCF287F89BC7F">
 		<name>210教室</name>
 		<LookAt>
@@ -327,6 +310,23 @@
 		<styleUrl>#__managed_style_065C8AB91D287F881A20</styleUrl>
 		<Point>
 			<coordinates>139.3786318224807,35.61730672637501,138.8525899045219</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FE09F595287F898031">
+		<name>207教室</name>
+		<LookAt>
+			<longitude>139.3785577804658</longitude>
+			<latitude>35.61687224894019</latitude>
+			<altitude>135.9349859625826</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000235712304</gx:fovy>
+			<range>191.3226344799295</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_065C8AB91D287F881A20</styleUrl>
+		<Point>
+			<coordinates>139.3783798018665,35.61680887945404,136.3424876448322</coordinates>
 		</Point>
 	</Placemark>
 </Document>
